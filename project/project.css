@@ -1,0 +1,19 @@
+.project::after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+.firstpara{
+    width:50%;
+    float:left;
+}
+
+.fpimg{
+    float:right;
+    width:50%;
+}
+
+.fpimg img{
+    max-width:100%
+}
